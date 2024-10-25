@@ -19,7 +19,7 @@ public class SampleController {
         log.info("hello");
         log.info("----------------------!");
 
-        return new String[] {"Hello", "World"};
+        return new String[] {"Hello", "World", "222"};
 
     }
 
